@@ -1,0 +1,5 @@
+/.venv
+/Kalandra.items.csv
+/poe.db
+/poe.sqlite3
+/sqlite3.exe
